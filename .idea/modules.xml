@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-management/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-management/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-client-3082/springcloud-config-client-3082.iml" filepath="$PROJECT_DIR$/springcloud-config-client-3082/springcloud-config-client-3082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-config-server-3081/springcloud-config-server-3081.iml" filepath="$PROJECT_DIR$/springcloud-config-server-3081/springcloud-config-server-3081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-7081/springcloud-consumer-7081.iml" filepath="$PROJECT_DIR$/springcloud-consumer-7081/springcloud-consumer-7081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-ribbon-7082/springcloud-consumer-ribbon-7082.iml" filepath="$PROJECT_DIR$/springcloud-consumer-ribbon-7082/springcloud-consumer-ribbon-7082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-6081/springcloud-eureka-6081.iml" filepath="$PROJECT_DIR$/springcloud-eureka-6081/springcloud-eureka-6081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-6082/springcloud-eureka-6082.iml" filepath="$PROJECT_DIR$/springcloud-eureka-6082/springcloud-eureka-6082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-6083/springcloud-eureka-6083.iml" filepath="$PROJECT_DIR$/springcloud-eureka-6083/springcloud-eureka-6083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-feign-consumer-7083/springcloud-feign-consumer-7083.iml" filepath="$PROJECT_DIR$/springcloud-feign-consumer-7083/springcloud-feign-consumer-7083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-management/springcloud-management.iml" filepath="$PROJECT_DIR$/springcloud-management/springcloud-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-management/springcloud-mapper-01/springcloud-mapper-01.iml" filepath="$PROJECT_DIR$/springcloud-management/springcloud-mapper-01/springcloud-mapper-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-management/springcloud-model/springcloud-model.iml" filepath="$PROJECT_DIR$/springcloud-management/springcloud-model/springcloud-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-parent-demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud-parent-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-8081/springcloud-provider-8081.iml" filepath="$PROJECT_DIR$/springcloud-provider-8081/springcloud-provider-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-8082/springcloud-provider-8082.iml" filepath="$PROJECT_DIR$/springcloud-provider-8082/springcloud-provider-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-8083/springcloud-provider-8083.iml" filepath="$PROJECT_DIR$/springcloud-provider-8083/springcloud-provider-8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-hystrix-8084/springcloud-provider-hystrix-8084.iml" filepath="$PROJECT_DIR$/springcloud-provider-hystrix-8084/springcloud-provider-hystrix-8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-management/springcloud-service/springcloud-service.iml" filepath="$PROJECT_DIR$/springcloud-management/springcloud-service/springcloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zipkin-4081/springcloud-zipkin-4081.iml" filepath="$PROJECT_DIR$/springcloud-zipkin-4081/springcloud-zipkin-4081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-zuul-5081/springcloud-zuul-5081.iml" filepath="$PROJECT_DIR$/springcloud-zuul-5081/springcloud-zuul-5081.iml" />
+    </modules>
+  </component>
+</project>
